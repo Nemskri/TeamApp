@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TeamApp/static/css/main.579cafa2.css",
+    "main.js": "/TeamApp/static/js/main.d90bd1da.js",
+    "static/media/bg.jpeg": "/TeamApp/static/media/bg.1a97868b8d7bffa37e83.jpeg",
+    "static/media/maleProfile.jpg": "/TeamApp/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "static/media/femaleProfile.jpg": "/TeamApp/static/media/femaleProfile.48d77dc2519df08d5cc5.jpg",
+    "index.html": "/TeamApp/index.html",
+    "main.579cafa2.css.map": "/TeamApp/static/css/main.579cafa2.css.map",
+    "main.d90bd1da.js.map": "/TeamApp/static/js/main.d90bd1da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579cafa2.css",
+    "static/js/main.d90bd1da.js"
+  ]
+}
